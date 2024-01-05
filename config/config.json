@@ -1,15 +1,15 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "prefix": "BOT_PREFIX",
+  "token": "https://d5b76046-1981-4036-b252-884f034ea4a7-00-3cge890u9j09m.kirk.replit.dev/",
+  "prefix": "/",
   "b_id": "157652",
   "b_key": "Enr5H7upyFrdF61Y",
-  "ownerID": "821095540569407508",
-  "ownerid": "821095540569407508",
+  "ownerID": "1153172663838195724",
+  "ownerid": "1153172663838195724",
   "voice_log_console": true,
   "everyoneMention": false,
   "hostedBy": true,
   "reactionSuccess": "✔️",
-  "mongoose": "YOUR_MONGODB_URL",
+  "mongoose": "mongodb+srv://ztgc9g:n8gt8@cluster0.vnz3tdg.mongodb.net/?retryWrites=true&w=majority",
   "customs": {
     "clear": "dynaudnorm=f=200",
     "lightbass": "bass=g=8,dynaudnorm=f=200",
@@ -54,7 +54,7 @@
     "mcompand": "mcompand",
     "earrape": "bass=g=50"
   },
-  "footertext": "Coded By Tech Boy Gaming",
+  "footertext": "Hehe Boi",
   "colors": {
     "yes": "BLUE",
     "no": "RED"
